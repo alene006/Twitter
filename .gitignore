@@ -21,6 +21,9 @@ xcuserdata/
 *.moved-aside
 *.xccheckout
 *.xcscmblueprint
+twitter_ios_starter.zip
+.DS_Store
+Twitter/.DS_Store
 
 ## Obj-C/Swift specific
 *.hmap
